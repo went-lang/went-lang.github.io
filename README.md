@@ -1,1 +1,1 @@
-#WENT Language websitr
+#WENT Language website
